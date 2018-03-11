@@ -19,13 +19,16 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*5)+ 1);
+var x=Math.floor((Math.random()*8)+ 1);
 var xxx=null;
 if(x=="1"){xxx="/2018/02/car-production-fall-hits-uk-industrial.html"}
 if(x=="2"){xxx="/2018/02/senior-citizens-can-save-hundreds-of.html"}
 if(x=="3"){xxx="/2018/02/motorcycle-insurance-tips.html"}
 if(x=="4"){xxx="/2018/02/8-easy-ways-to-stay-safe-on-road-this.html"}
-if(x=="5"){xxx="/2018/02/5-ways-to-reduce-impact-of-global.html"}a_to_ve[i].href="https://menujufiledownload.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/02/5-ways-to-reduce-impact-of-global.html"}
+if(x=="6"){xxx="/2018/03/a-mysterious-lung-disease-is-striking.html"}
+if(x=="7"){xxx="/2018/03/what-to-know-before-taking-23andmes.html"}
+if(x=="8"){xxx="/2018/03/why-thousands-of-cheerleaders-might-be.html"}a_to_ve[i].href="https://menujufiledownload.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
